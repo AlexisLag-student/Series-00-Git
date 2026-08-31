@@ -34,3 +34,20 @@ something I remember to do afterwards.
 ## An image from my own machine
 
 ![Screenshot of my plots](images/fig5_sessions_Moderate_Walking_Vigorous_Running_Light_Sedentary.png)
+
+## What I learned
+
+The main concept is that a repository exists twice (locally on my machine and
+remotely on GitHub) and that Git keeps the two in sync while recording the
+full history of every change.
+
+Branches let me work on something without touching the stable `main` version.
+A commit is a snapshot with a message explaining it; pushing sends those
+commits to GitHub so they exist somewhere other than my laptop.
+
+The operations I used were: clone, create a branch, commit, publish the branch,
+and push. I also learned the Markdown syntax for images, and the difference
+between an absolute URL pointing to the web and a relative path pointing inside
+my own repository.
+
+It took me about X to complete this assignment.
