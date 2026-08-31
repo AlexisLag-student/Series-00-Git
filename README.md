@@ -30,3 +30,7 @@ want to build on top of it.
 
 By the end of this course I want version control to be a reflex rather than
 something I remember to do afterwards.
+
+## An image from my own machine
+
+![Screenshot of my plots](images/fig5_sessions_Moderate_Walking_Vigorous_Running_Light_Sedentary.png)
